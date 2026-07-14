@@ -11,7 +11,8 @@ This is the whole codebase for my espnow vision car it hass all the cad files of
 - Easy to understand and modify
 - Suitable for robot control and sensor communication
 - Live vison on remote
-
+  
+#BOM-Bill Of Materials
 | Component               |   Quantity  | Description                                                     |
 | ----------------------- | :---------: | --------------------------------------------------------------- |
 | ESP32 Development Board |      3      | One transmitter and one receiver                                |
@@ -28,7 +29,12 @@ This is the whole codebase for my espnow vision car it hass all the cad files of
 | Jumper Wires            | As required | Electrical connections                                          |
 
 <img width="4032" height="3024" alt="WhatsApp Image 2026-01-04 at 19 02 38 (1)" src="https://github.com/user-attachments/assets/40689f4f-7b3a-48da-b1aa-4144226c5746" />
-Circuit Diagrams
-<img width="3235" height="2114" alt="image" src="https://github.com/user-attachments/assets/7e0af613-287e-4e0e-b196-376655ae0b17" />
 
+Circuit Diagrams
+Car-
+<img width="460" height="323" alt="Screenshot 2026-07-14 at 6 38 22 PM" src="https://github.com/user-attachments/assets/fe6b1260-42a8-4b52-95f0-b99cc3efa059" />
+Remote-
+<img width="339" height="248" alt="Screenshot 2026-07-14 at 6 39 58 PM" src="https://github.com/user-attachments/assets/0f11cd60-92a7-4913-a580-39ca332b2b31" />
+
+Camera-
 <img width="3534" height="3705" alt=" connection" src="https://github.com/user-attachments/assets/aa056e94-5c6c-4033-9dcb-c37865f584fc" />
