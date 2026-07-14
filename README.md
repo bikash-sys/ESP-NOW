@@ -26,3 +26,5 @@ This is the whole codebase for my espnow vision car it hass all the cad files of
 | 3D Printed Parts        | As required | Motor mounts, camera mount, brackets, remote enclosure, spacers |
 | Screws, Nuts & Spacers  | As required | Mechanical assembly                                             |
 | Jumper Wires            | As required | Electrical connections                                          |
+
+<img width="4032" height="3024" alt="WhatsApp Image 2026-01-04 at 19 02 38 (1)" src="https://github.com/user-attachments/assets/40689f4f-7b3a-48da-b1aa-4144226c5746" />
