@@ -1,0 +1,12 @@
+Component,Quantity,Purpose
+ESP32 Dev Board,3,Wireless communication
+TB6612FNG Motor Driver,1,Drive DC motors
+TT Dual Shaft DC Motor,4,Locomotion
+65mm Wheels,4,Mobility
+18650 Li-ion Battery,2,Power source
+18650 Battery Holder,1,Battery mounting
+LM2596 Buck Converter,1,Voltage regulation
+ESP32-CAM,1,Vision module
+Screws/Nuts/Spacers,As required,Assembly
+1.8" TFT Display,1,User interface
+3D Printed Parts,12,Structural support and mounts
