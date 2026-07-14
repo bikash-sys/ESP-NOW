@@ -12,7 +12,7 @@ This is the whole codebase for my espnow vision car it hass all the cad files of
 - Suitable for robot control and sensor communication
 - Live vison on remote
   
-#BOM-Bill Of Materials
+## BOM-Bill Of Materials
 | Component               |   Quantity  | Description                                                     |
 | ----------------------- | :---------: | --------------------------------------------------------------- |
 | ESP32 Development Board |      3      | One transmitter and one receiver                                |
