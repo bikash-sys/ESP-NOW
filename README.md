@@ -30,7 +30,7 @@ This is the whole codebase for my espnow vision car it hass all the cad files of
 
 <img width="4032" height="3024" alt="WhatsApp Image 2026-01-04 at 19 02 38 (1)" src="https://github.com/user-attachments/assets/40689f4f-7b3a-48da-b1aa-4144226c5746" />
 
-Circuit Diagrams
+Circuit Diagrams(for clear circuit diagram visit :https://app.cirkitdesigner.com/project/403f83fd-756a-48fe-b7f0-dc32b4001005)
 Car-
 <img width="460" height="323" alt="Screenshot 2026-07-14 at 6 38 22 PM" src="https://github.com/user-attachments/assets/fe6b1260-42a8-4b52-95f0-b99cc3efa059" />
 Remote-
