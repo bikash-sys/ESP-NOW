@@ -2,6 +2,8 @@
 
 This is the whole codebase for my espnow vision car it hass all the cad files of car and reemote and all the code to create your own simply also this car is not like any other car on youtube it actually uses esp32 cam to display the vision on the remote and also has joystick speed controls
 
+[For stp files https://drive.google.com/drive/folders/1rErOXvgO1o4XdKNtQUgpyoMaxtlu1l8J?usp=sharing]
+
 
 ## Features
 
