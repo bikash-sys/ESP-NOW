@@ -1,6 +1,8 @@
 # ESP-NOW Wireless Vision RC Car
 
-This is the whole codebase for my espnow vision car it hass all the cad files of car and reemote and all the code to create your own simply also this car is not like any other car on youtube it actually uses esp32 cam to display the vision on the remote and also has joystick speed controls
+This is the whole codebase for my espnow vision car it hass all the cad files of car and reemote and all the code to create your own simply also this car is not like any other car on youtube it actually uses esp32 cam to display the vision on the remote and also has joystick speed controls.
+
+The reason I built this is like firstly an rc car is a very commen project so i thought i might be cool to create some thing very unique out of this common thing like a physical remote with joystick then a camera with on remote live feed is very very unique like i searched many yt videos still havent found a single one also another reason was esp-now protocol i have not used it any time so it was a nice time to try some thing new for me also.
 
 [For stp files https://drive.google.com/drive/folders/1rErOXvgO1o4XdKNtQUgpyoMaxtlu1l8J?usp=sharing]
 
