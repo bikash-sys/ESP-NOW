@@ -16,21 +16,24 @@ The reason I built this is like firstly an rc car is a very commen project so i 
 - Suitable for robot control and sensor communication
 - Live vison on remote
   
-## BOM-Bill Of Materials
-| Component               |   Quantity  | Description                                                     |
-| ----------------------- | :---------: | --------------------------------------------------------------- |
-| ESP32 Development Board |      3      | One transmitter and one receiver                                |
-| TB6612FNG Motor Driver  |      1      | Dual H-Bridge motor driver                                      |
-| TT Dual Shaft DC Motor  |      4      | Geared DC motors for robot movement                             |
-| 65 mm Wheels            |      4      | Compatible with TT motors                                       |
-| ESP32-CAM               |      1      | Wireless camera module                                          |
-| 1.8" TFT Display        |      1      | Display for remote interface                                    |
-| LM2596 Buck Converter   |      1      | Voltage regulation                                              |
-| 18650 Li-ion Battery    |      2      | Power source                                                    |
-| 18650 Battery Holder    |      1      | Battery mounting                                                |
-| 3D Printed Parts        | As required | Motor mounts, camera mount, brackets, remote enclosure, spacers |
-| Screws, Nuts & Spacers  | As required | Mechanical assembly                                             |
-| Jumper Wires            | As required | Electrical connections                                          |
+
+## BOM – Bill of Materials
+
+| Component | Quantity | Price | Purpose | Purchase Link |
+|-----------|:--------:|:-----:|---------|:-------------:|
+| ESP32 Dev Board | 3 | $3.96/pc | Wireless communication | [Buy Here](https://robu.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board/) |
+| TB6612FNG Motor Driver | 1 | $1.45 | Drive DC motors | [Buy Here](https://robu.in/product/motor-driver-tb6612fng-module-performance-ultra-small-volume-3-pi-matching-performance-ultra-l298n/) |
+| TT Dual Shaft DC Motor | 4 | $1.27/pc | Locomotion | [Buy Here](https://robu.in/product/230rpm-straight-type-dual-side-6v-bo-motor/) |
+| 65 mm Wheels | 4 | $0.25/pc | Mobility | [Buy Here](https://robu.in/product/robot-smart-car-wheel-tyre-bo-motor/) |
+| 18650 Li-ion Battery | 3 | $1.45/pc | Power source | [Buy Here](https://robocraze.com/products/18650-2200mah-3-7v-battery-cylinder-type-blue?variant=43800370249952) |
+| 18650 Battery Holder | 1 | $0.26 | Battery mounting | [Buy Here](https://robu.in/product/black-plastic-storage-box-case-holder-battery-3-x-18650-cell-box-without-cover/) |
+| LM2596S Buck Converter | 1 | $0.44 | Voltage regulation | [Buy Here](https://robu.in/product/lm2596s-dc-dc-buck-converter-power-supply/) |
+| ESP32-CAM | 1 | $6.60 | Vision module | [Buy Here](https://robocraze.com/products/esp32-camera-module?variant=40193645707417) |
+| ESP32-CAM MB *(Optional)* | 1 | $1.14 | USB programmer for ESP32-CAM | [Buy Here](https://techtonics.in/product/esp32-cam-mb-micro-usb-download-module-for-esp32-cam-development-board/) |
+| 1.8" TFT Display | 1 | $4.16 | User interface | [Buy Here](https://robu.in/product/goldenmorning-1-8-inch-tft-module-128x160-st7735s/) |
+| Screws, Nuts & Spacers | As required | $4–$5 | Mechanical assembly | Local Hardware Store |
+| 3D Printed Parts | 12 | Self-manufactured | Structural support and mounts | Self Printed |
+
 
 <img width="4032" height="3024" alt="WhatsApp Image 2026-01-04 at 19 02 38 (1)" src="https://github.com/user-attachments/assets/40689f4f-7b3a-48da-b1aa-4144226c5746" />
 
