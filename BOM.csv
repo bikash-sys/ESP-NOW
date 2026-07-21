@@ -1,12 +1,13 @@
-Component,Quantity,Purpose
-ESP32 Dev Board,3,Wireless communication
-TB6612FNG Motor Driver,1,Drive DC motors
-TT Dual Shaft DC Motor,4,Locomotion
-65mm Wheels,4,Mobility
-18650 Li-ion Battery,2,Power source
-18650 Battery Holder,1,Battery mounting
-LM2596 Buck Converter,1,Voltage regulation
-ESP32-CAM,1,Vision module
-Screws/Nuts/Spacers,As required,Assembly
-1.8 TFT Display,1,User interface
-3D Printed Parts,12,Structural support and mounts
+Component,Quantity,Link,Price,Purpose
+ESP32 Dev Board,3,https://robu.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board/?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWe8ciyKUt1-kb2FHStBP5iM9&gclid=EAIaIQobChMIg7GYio_klQMVp8s8Ah0w1QvjEAQYAiABEgLuz_D_BwE,$3.96/pc,Wireless communication
+TB6612FNG Motor Driver,1,https://robu.in/product/motor-driver-tb6612fng-module-performance-ultra-small-volume-3-pi-matching-performance-ultra-l298n/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWcSLNFcWWez0vA7IBUS0aPao&gclid=EAIaIQobChMIlqfAoY_klQMVEJlmAh1B2zrCEAQYASABEgILevD_BwE,$1.45,Drive DC motors
+TT Dual Shaft DC Motor,4,https://robu.in/product/230rpm-straight-type-dual-side-6v-bo-motor/,$1.27/pc,Locomotion
+65mm Wheels,4,https://robu.in/product/robot-smart-car-wheel-tyre-bo-motor/,$0.25/pc,Mobility
+18650 Li-ion Battery,3,https://robocraze.com/products/18650-2200mah-3-7v-battery-cylinder-type-blue?variant=43800370249952&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=google&utm_medium=cpc&utm_campaign=BL+%7C+Pmax+%7C+Feed+Only+%7C+Display+%7C+31%2F05&utm_source=googleads&utm_medium=ppc&utm_campaign=21404823038&utm_content=_&utm_term=&campaignid=21404823038&adgroupid=&campaign=21404823038&gad_source=1&gad_campaignid=21408878617&gbraid=0AAAAADgHQvbA6KRDkUtO37u6QewRCXct9&gclid=EAIaIQobChMIlKXu7I_klQMV-5JmAh3l6SbaEAQYASABEgJmtfD_BwE,$1.45/pc,Power source
+18650 Battery Holder,1,https://robu.in/product/black-plastic-storage-box-case-holder-battery-3-x-18650-cell-box-without-cover/,$0.26,Battery mounting
+LM2596S Buck Converter,1,https://robu.in/product/lm2596s-dc-dc-buck-converter-power-supply/,$0.44,Voltage regulation
+ESP32-CAM,1,https://robocraze.com/products/esp32-camera-module?variant=40193645707417&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=ppc&utm_campaign=23451097817&utm_content=_&utm_term=&campaignid=23451097817&adgroupid=&campaign=23451097817&gad_source=1&gad_campaignid=23455584892&gbraid=0AAAAADgHQvbiJhJZ9JiC-N0O8egF81lOp&gclid=EAIaIQobChMIn_Sr15DklQMVj5pmAh0nABE_EAQYASABEgKmy_D_BwE,$6.6,Vision module
+ESP32-CAM MB,1,https://techtonics.in/product/esp32-cam-mb-micro-usb-download-module-for-esp32-cam-development-board/?srsltid=AfmBOorqCW-c_vuV7DEP1x7NhkNymSy4wcFtg6vUQK7p3V_jpSWIhTzN,$1.14,(optional)just for programming esp32-cam
+Screws/Nuts/Spacers,As required,Local Shop,$4-$5,Assembly
+1.8 TFT Display,1,https://robu.in/product/goldenmorning-1-8-inch-tft-module-128x160-st7735s/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWcSLNFcWWez0vA7IBUS0aPao&gclid=EAIaIQobChMIyaKbopHklQMVPcM8Ah3JojslEAQYAiABEgL-XvD_BwE,$4.16,User interface
+3D Printed Parts,12,3D printer,I got a printer,Structural support and mounts
