@@ -10,7 +10,7 @@ The reason I built this is like firstly an rc car is a very commen project so i 
 ## Features
 
 - Peer-to-peer communication using ESP-NOW
-- No Wi-Fi router or internet required
+- No Wi-Fi router or internet required fully offlinee
 - Low-latency wireless data transfer
 - Easy to understand and modify
 - Suitable for robot control and sensor communication
