@@ -45,3 +45,23 @@ Remote-
 
 Camera-
 <img width="3534" height="3705" alt=" connection" src="https://github.com/user-attachments/assets/aa056e94-5c6c-4033-9dcb-c37865f584fc" />
+
+
+## How to Build this...
+I had uploaded all the needed code , cad models and complete circuit diagram in my repo 
+
+step 1: first in code folder get the mac address upload that code in the esp that will be in your main car on uploading go to serial moniter press the rst button on esp once you will get its mac address copy it some where.
+
+step 2: It is optional but I would recommend to do it to check once the values of your joystick just connect the joystick to the esp as in the diagram in 34 and 35 and then just upload the code and check the values if u are getti.ng values great other wise there might be something wrong in joystick or esp
+
+step 3: get the esp for your remote and the mac address now mac address will be something like this 48:e7:29:b2:e6:3c u need to convert it into this 0x48, 0xE7, 0x29, 0xB2, 0xE6, 0x3C just separate each and add 0x in front now change mac address acc to yours in the transmitter coade and hit upload
+
+step 4: Upload your car esp with the reciever code and voila your remote control car is done 
+
+step 5: Now for vision just upload the esp32cam code in the esp32 cam with a cam mb or ftdi up to you
+
+step 6: this is very much complicated and i personally spend too much time on it first download TFT_eSPI library now go to your arduino folder then library then search for tft espi and inside that u will get something named User_Setup.h now u need to modify it according to your display firstly everythings thats in there and replace with my user setup file now go to line 45 i had a ili9342 display so i used that which ever driver your display has just uncomment that driver and comment the rest ok if you dont know the driver just check each and every one once done upload the espcam_display code and done your cam and display works now
+
+step 7 : It was the mst annoying for me not for you actually to get the car for optinal speed and work smoothly every thing needs to balance out so i had to arrange all the items in very specific manner so weight is equally distributed so for assembly i had uploaded stp and f3z files so just check my placements u need to do some solderings and then just screw them into place and it will be done also the top part is just open space so if you have any figurine or any model u can attach there like i attached a robotic arm on top of it from my previous projects
+
+step
